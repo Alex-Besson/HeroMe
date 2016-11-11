@@ -1,7 +1,9 @@
-package codes.besson.herome;
+package codes.besson.herome.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import codes.besson.herome.R;
 
 public class MainActivity extends AppCompatActivity {
 
