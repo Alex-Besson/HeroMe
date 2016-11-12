@@ -40,7 +40,7 @@
         <Button
             android:text="CAME BY ACCIDENT"
             android:layout_width="300dp"
-            android:id="@+id/button"
+            android:id="@+id/btnAccident"
             android:layout_gravity="center_horizontal"
             android:background="@drawable/hero_button"
             android:layout_height="50dp"
@@ -48,14 +48,13 @@
             android:textSize="18sp"
             android:layout_marginTop="15dp"
             android:drawableLeft="@drawable/lightning"
-            android:drawableRight="@drawable/item_selected"
             android:paddingLeft="10dp"
             android:paddingRight="10dp" />
 
         <Button
             android:text="GENETIC MUTATION"
             android:layout_width="300dp"
-            android:id="@+id/button2"
+            android:id="@+id/btnGenetic"
             android:layout_gravity="center_horizontal"
             android:background="@drawable/hero_button"
             android:layout_height="50dp"
@@ -63,13 +62,12 @@
             android:textSize="18sp"
             android:layout_marginTop="15dp"
             android:drawableLeft="@drawable/atomic"
-            android:drawableRight="@drawable/item_selected"
             android:paddingLeft="10dp"
             android:paddingRight="10dp" />
 
         <Button
             android:text="BORN WITH THEM"
-            android:id="@+id/button3"
+            android:id="@+id/btnBorn"
             android:layout_gravity="center_horizontal"
             android:background="@drawable/hero_button"
             android:layout_height="50dp"
@@ -77,14 +75,13 @@
             android:textSize="18sp"
             android:layout_marginTop="15dp"
             android:drawableLeft="@drawable/rocket"
-            android:drawableRight="@drawable/item_selected"
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
             android:layout_width="300dp" />
 
         <Button
             android:text="CHOOSE POWERS"
-            android:id="@+id/button4"
+            android:id="@+id/btnChoosePowers"
             android:layout_gravity="center_horizontal"
             android:background="@drawable/hero_solid_button"
             android:layout_height="50dp"
